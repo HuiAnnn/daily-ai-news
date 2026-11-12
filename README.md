@@ -5,7 +5,7 @@ This repo is a **daily AI news digest**, updated automatically once per day (tim
 
 ## Latest / 最新
 
-- [2026-11-11](news/2026-11-11.md)
+- [2026-11-12](news/2026-11-12.md)
 
 ## Structure / 目录结构
 
